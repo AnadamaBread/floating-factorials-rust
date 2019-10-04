@@ -1,0 +1,6 @@
+[package]
+name = "counter_car"
+version = "0.1.0"
+authors = ["beansauce"]
+
+[dependencies]
